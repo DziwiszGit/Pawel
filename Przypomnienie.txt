@@ -4,3 +4,17 @@ git commit -m Wiadomosc
 git push -u origin master
 DziwiszGit
 T
+
+git clone https - klonuje
+git branch - sprawdza jakie sa branche
+touch plik.txt tworzy plik
+git commit -am wiadomosc (git add i git commit na raz)
+git checkout -b"Nowy_branch" tworzy nowy
+git checkout master - przechodzi na mastera
+git checkout -   - poprzedni branch
+git checkout plik1.txt - sprawia ze resetujemy wszystko od poprzedniego commita
+git reset --hard - sprawia ze resetujemy wszystko w branczu z ostatniego comita
+jesli brancz nie istnieje w remount repo to kopiujemy komende ktora pokażę 
+git fetch-zczytuje stan zewnetrzego repozytorium\
+git pull - sprawdza co sie zmienilo
+git rebase master- z innego brancha dodaje do mastera na gore 
