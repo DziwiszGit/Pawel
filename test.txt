@@ -2,3 +2,5 @@ Robimy zmiany
 git add .
 git commit -m Wiadomosc
 git push -u origin master
+DziwiszGit
+T
