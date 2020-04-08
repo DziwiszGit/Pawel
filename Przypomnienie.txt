@@ -3,6 +3,7 @@ git add .
 git commit -m "Wiadomosc"
 git push -u origin master
 DziwiszGit
+cos
 
 git clone https - klonuje
 git branch - sprawdza jakie sa branche
