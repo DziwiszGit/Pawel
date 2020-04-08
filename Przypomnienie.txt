@@ -18,3 +18,9 @@ jesli brancz nie istnieje w remount repo to kopiujemy komende ktora pokażę
 git fetch-zczytuje stan zewnetrzego repozytorium\
 git pull - sprawdza co sie zmienilo
 git rebase master- z innego brancha dodaje do mastera na gore 
+Robimy wszystko na innym branchu nastepnie wchodzizmy na mastera dajemy
+git pull aby zobaczyc czy sa nowe pliki 
+pozniej wracamy na na inny branch
+nastepnie git rebase master - i przez to wrzuca nam pliki na innych branch z mastera
+nastepnie wracamy na mastera   i git merge inny brancz
+i mamy wszystko zmodyfikowane na masterze i teraz juz tylko git push
