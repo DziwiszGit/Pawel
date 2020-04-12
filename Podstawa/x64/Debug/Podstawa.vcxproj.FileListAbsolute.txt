@@ -1,0 +1,2 @@
+C:\Git\Pawel\Podstawa\x64\Debug\Podstawa.exe
+C:\Git\Pawel\Podstawa\x64\Debug\Podstawa.pdb
